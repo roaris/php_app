@@ -1,4 +1,4 @@
-#BBS掲示板
+# BBS掲示板
 
 PHP+MySQL+AWSで作成した投稿掲示板です。
 
